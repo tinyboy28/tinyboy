@@ -3501,502 +3501,502 @@ n z n z n z n z n z n z
 question
 1 9 9 7 年 的 中 秋 节 是 几 月 几 号
 t t t t t u t t t v m m n n
-command
+question
 中 秋 节 几 月 几 号
 t t t m m n n
-command
+question
 今 年 中 秋 节 是 阳 历 的 几 号
 t t t t t v n n u n n
-command
+question
 中 国 的 情 人 节 是 几 月 几 号
 n s n s u n n n v m m n n
-command
+question
 中 秋 节 是 什 么 日 子
 t t t v r r n n
-command
+question
 不 知 道 下 一 个 情 人 节 是 好 久
 d v v f m m n n n v m m
-command
+question
 情 人 节 都 在 几 月 几 号
 n n n d p m m n n
-command
+question
 白 色 情 人 节 是 在 几 月 几 号
 n n n n n v p t t n n
-command
+question
 谁 知 道 今 年 的 情 人 节 是 几 号
 r v v t t u n n n v n n
-command
+question
 今 年 情 人 节 是 哪 天 呀
 t t n n n v r q y
-command
+question
 9 8 年 农 历 二 月 十 九 是 阳 历 几 月 几 日
 t t t n n t t m m v n n m n m q
-command
+question
 情 人 节 还 有 多 少 天 啊
 n n n v v r r q y
-command
+question
 情 人 节 到 底 在 什 么 时 候 阿
 n n n d d p r r n n j
-command
+question
 圣 诞 节 平 安 夜 是 那 一 天
 t t t n n n v r m q
-command
+question
 圣 诞 节 是 哪 一 天 谢 谢
 t t t v r m q v v
-command
+question
 今 年 的 情 人 节 是 在 哪 一 天
 t t u n n n v p r m q
-command
+question
 2 0 1 0 母 亲 节 什 么 几 月 几 号
 m m m m t t t r r n n n n
-command
+question
 中 秋 节 啥 时 候 啊
 t t t r n n y
-command
+question
 圣 诞 节 是 什 么 时 候 呀
 t t t v r r n n y
-command
+question
 2 0 1 1 年 情 人 节 是 哪 一 天
 t t t t t n n n v r m q
-command
+question
 几 月 几 号 圣 诞 节
 t t m m t t t
-command
+question
 中 秋 节 是 每 年 的 几 月 几 日 的
 t t t v r r u m n m q u
-command
+question
 情 人 节 日 期 是 多 少
 n n n n n v r r
-command
+question
 一 九 六 三 年 十 一 冃 十 九 日 阴 历 是 多 少
 t t t t t m m n g t t t n n v r r
-command
+question
 六 月 十 九 日 是 星 期 几
 n n t t t v n n n
-command
+question
 中 秋 节 几 号 啊
 t t t m q y
-command
+question
 中 秋 节 是 多 号
 t t t v m q
-command
+question
 哪 天 是 圣 诞 节 哪 天 是 平 安 夜 啊
 r r v t t t r q v n n n y
-command
+question
 六 月 一 十 三 日 是 农 历 多 少
 n n t t t t v n n r r
-command
+question
 谁 知 道 那 天 是 情 人 节
 n z n z n z r r v n n n
-command
+question
 哪 天 是 圣 诞 节 啊
 r r v t t t y
-command
+question
 中 秋 节 还 有 多 久
 t t t v v r r
-command
+question
 国 际 母 语 日 是 哪 一 天
 n n n n n g v r m q
-command
+question
 2 0 1 1 年 什 么 时 候 是 中 秋 节
 t t t t t r r n n v t t t
-command
+question
 圣 诞 节 是 啥 时 候 啊
 t t t v r n n y
-command
+question
 今 年 多 少 是 圣 诞 节
 t t r r v t t t
-command
+question
 2 0 0 6 年 情 人 节 是 好 多 号
 t t t t t n n n v m m q
-command
+question
 2 0 1 3 年 的 情 人 节 是 几 月 几 号
 t t t t t u n n n v m m n n
-command
+question
 几 月 份 是 中 秋 节
 t t t v t t t
-command
+question
 请 问 一 下 情 人 节 是 什 么 时 候
 v v m m n n n v r r n n
-command
+question
 1 9 9 8 年 中 秋 节 是 几 月 几 号
 t t t t t t t t v m m n n
-command
+question
 今 年 情 人 节 哪 天 啊
 t t n n n r q y
-command
+question
 中 秋 节 是 几 号 呢
 t t t v m q y
-command
+question
 2 0 1 3 年 中 秋 节 是 几 号
 t t t t t t t t v n n
-command
+question
 白 色 情 人 节 是 哪 一 天
 n n n n n v r m q
-command
+question
 今 年 几 号 是 圣 诞 节 呢
 t t n n v t t t y
-command
+question
 几 月 几 日 是 中 秋 节
 t t m q v t t t
-command
+question
 情 人 节 是 几 年 几 月 几 号 啊
 n n n v m q m n m q y
-command
+question
 今 年 的 中 秋 节 是 多 少 号
 t t u t t t v r r q
-command
+question
 阴 历 一 九 八 一 年 五 月 十 九 是 多 少
 n n t t t t t t t m m v r r
-command
+question
 情 人 节 是 哪 一 号
 n n n v r m q
-command
+question
 万 年 历 阴 历 1 9 8 3 年 1 0 月 1 1 日 是 阳 历 几 号
 n n n n n t t t t t t t t t t t v n n n n
-command
+question
 情 人 节 是 几 号 啊
 n n n v m q y
-command
+question
 情 人 节 是 几 月 几 号 呢
 n n n v m n m q y
-command
+question
 1 9 9 5 年 阴 历 六 月 一 日 公 历 是 多 少
 t t t t t n n n n t t n n v r r
-command
+question
 世 界 读 书 日
 n n v v n g
-command
+question
 圣 诞 节 是 这 月 哪 天
 t t t v r n r q
-command
+question
 圣 诞 节 还 几 天
 t t t d m q
-command
+question
 1 9 7 6 年 农 历 正 月 初 五 阳 历 是 几 月 几 日
 t t t t t n n t t t t n n v m n m q
-command
+question
 今 年 的 情 人 节 是 几 月 几 号 啊
 t t u n n n v m n m q y
-command
+question
 今 年 教 师 节 是 什 么 时 候
 t t t t t v r r n n
-command
+question
 二 月 二 十 五 是 情 人 节 吗
 t t m m m v n n n y
-command
+question
 圣 诞 节 有 多 少 天
 t t t v r r q
-command
+question
 下 一 个 情 人 节 是 什 么 时 候
 f m m n n n v r r n n
-command
+question
 二 月 十 四 是 情 人 节 吗
 t t m m v n n n y
-command
+question
 农 历 1 9 7 7 年 十 月 二 十 一 日 公 历 是
 n n t t t t t t t t t t t n n v
-command
+question
 2 0 0 9 年 中 秋 节 是 多 少 号
 t t t t t t t t v r r q
-command
+question
 谁 知 道 什 么 时 候 是 中 秋 节
 n z n z n z r r n n v t t t
-command
+question
 请 问 圣 诞 节 是 哪 一 天 呢
 v v t t t v r m q y
-command
+question
 2 0 1 1 年 的 情 人 节 是 哪 一 天
 t t t t t u n n n v r m q
-command
+question
 明 天 是 情 人 节 吗
 t t v n n n y
-command
+question
 中 秋 节 是 什 么 时 候 啊
 t t t v r r n n y
-command
+question
 一 四 年 一 月 十 三 号 是 阴 历 多 少
 m n z n z t t m m q v n n r r
-command
+question
 啊 谁 告 诉 我 圣 诞 节 几 号
 y r v v r t t t n n
-command
+question
 今 年 中 秋 节 是 什 么 时 候
 t t t t t v r r n n
-command
+question
 本 月 情 人 节 几 日
 t t n n n m q
-command
+question
 今 年 中 秋 节 是 几 月 几 号
 t t t t t v m m n n
-command
+question
 情 人 节 是 多 少 号 啊
 n n n v r r q y
-command
+question
 2 0 0 8 年 的 情 人 节 是 什 么 时 候 啊
 t t t t t u n n n v r r n n y
-command
+question
 情 人 节 是 2 月 几 号
 n n n v t t n n
-command
+question
 1 9 7 0 年 的 阴 历 八 月 十 三 阳 历 是 几 月 几 日
 t t t t t u n n t t m m n n v m n m q
-command
+question
 0 9 年 中 秋 节 几 月 几 日
 t t t t t t m n m q
-command
+question
 今 年 过 年 时 的 情 人 节 日 期 是 多 少
 t t v v n g u n n n n n v r r
-command
+question
 情 人 节 二 月 十 四 是 阳 历 还 是 阴 历
 n z n z n z t t m m v n n c c n n
-command
+question
 今 年 圣 诞 节 在 哪 一 天
 t t t t t p r m q
-command
+question
 请 问 情 人 节 是 哪 天 呀
 v v n n n v r q y
-command
+question
 我 想 问 问 情 人 节 到 底 是 哪 天 嘛
 r v v v n n n d d v r q y
-command
+question
 情 人 节 什 么 时 候 啊
 n z n z n z r r n n y
-command
+question
 请 问 情 人 节 是 几 号 哇
 v v n n n v m q y
-command
+question
 平 安 夜 是 每 年 哪 一 日
 n n n v r r r m q
-command
+question
 今 年 中 秋 节 几 号
 t t t t t n n
-command
+question
 中 秋 节 是 几 号
 t t t v n n
-command
+question
 请 问 中 秋 节 是 几 号
 v v t t t v n n
-command
+question
 中 秋 节 哪 一 天
 t t t r m q
-command
+question
 万 年 历 1 9 8 5 冬 月 十 六 是 阳 历 几 号
 n n n m m m m t t m m v n n n n
-command
+question
 圣 诞 节 是 几 月 分
 t t t v m n n
-command
+question
 圣 诞 节 哪 天 啊
 t t t r q y
-command
+question
 圣 诞 节 是 多 少 号 呢
 t t t v r r q y
-command
+question
 今 天 2 月 1 3 号 是 不 是 情 人 节 吖
 t t m m m m q n z n z n z n n n v
-command
+question
 今 年 的 情 人 节 是 什 么 时 候
 t t u n n n v r r n n
-command
+question
 明 年 的 第 一 个 情 人 节 是 几 月 几 号
 t t u m m q n n n v m m n n
-command
+question
 请 问 情 人 节 几 号
 v v n n n n n
-command
+question
 教 师 节 是 哪 天
 n n n v r r
-command
+question
 1 9 7 9 年 的 中 秋 节 阳 历 是 几 号
 t t t t t u t t t n n v n n
-command
+question
 情 人 节 在 多 少 号 啊
 n n n p r r q y
-command
+question
 2 0 1 2 年 情 人 节 多 少 号
 t t t t t n n n r r q
-command
+question
 情 人 节 几 号 啊
 n z n z n z m q y
-command
+question
 明 天 是 情 人 节 么
 t t v n n n y
-command
+question
 明 年 的 中 秋 节 是 几 月 几 号
 t t u t t t v m m n n
-command
+question
 情 人 节 是 几 月 几 号 星 期 几
 n n n v n n n n n n n
-command
+question
 2 0 1 2 年 圣 诞 节 是 几 月 几 号 星 期 几
 t t t t t t t t v n n n n n n n
-command
+question
 明 年 情 人 节 是 农 历 多 少
 t t n n n v n n r r
-command
+question
 今 年 农 历 三 月 二 十 九 是 几 号
 t t n n t t m m m v n n
-command
+question
 中 秋 节 是 每 年 的 什 么 一 天
 t t t v r r u r r m q
-command
+question
 圣 诞 节 是 每 年 的 几 号
 t t t v r r u n n
-command
+question
 哪 天 中 秋 节
 r r t t t
-command
+question
 今 年 什 么 时 候 是 中 秋 节
 t t r r n n v t t t
-command
+question
 2 0 1 1 年 圣 诞 节 是 几 月 几 号 星 期 几
 t t t t t t t t v n n n n n n n
-command
+question
 圣 诞 节 是 几 号 阿
 t t t v m q j
-command
+question
 什 么 月 是 情 人 节
 r r n v n n n
-command
+question
 1 9 7 6 年 农 历 8 月 1 6 是 阳 日 几 号
 t t t t t n n i i i i v n g n g m q
-command
+question
 中 秋 节 是 多 少 号
 t t t v r r q
-command
+question
 今 月 的 情 人 节 是 几 号
 t g n u n n n v n n
-command
+question
 西 方 情 人 节 是 什 么 时 候 啊
 s s n n n v r r n n y
-command
+question
 中 秋 节 几 月 几
 t t t m n m
-command
+question
 情 人 节 的 时 间 是 多 少
 n z n z n z u n n v r r
-command
+question
 情 人 节 是 什 么 时 间
 n n n v r r n n
-command
+question
 情 人 节 哪 天
 n z n z n z r r
-command
+question
 圣 诞 节 在 每 年 的 几 年 几 月
 t t t p r r u m q n n
-command
+question
 一 九 九 二 年 农 历 八 月 十 九 是 公 历 多 少
 t t t t t n n t t m m v n n r r
-command
+question
 九 四 年 二 月 一 日 农 历 是 初 几
 t t t t t t t n n v f m
-command
+question
 世 界 读 书 日 是 哪 一 天 呢
 n n v v n g v r m q y
-command
+question
 9 3 年 腊 月 十 九 是 公 历 几 号
 t t t t t m m v n n n n
-command
+question
 今 年 情 人 节 是 哪 天
 t t n n n v r r
-command
+question
 今 年 农 历 七 月 二 十 三 多 久
 t t n n t t m m m r r
-command
+question
 圣 诞 节 是 几 月 几 号 星 期 几
 t t t v n n n n n n n
-command
+question
 中 秋 节 是 农 历 几 月 几 日
 t t t v n n m n m q
-command
+question
 请 问 中 秋 节 是 什 么 时 候
 v v t t t v r r n n
-command
+question
 今 年 的 七 夕 情 人 节 是 哪 一 天
 t t u i i i i i v r m q
-command
+question
 今 年 的 圣 诞 节 是 什 么 时 候 多 少 号
 t t u t t t v r r n n r r q
-command
+question
 2 0 1 2 年 情 人 节 公 历 几 号
 t t t t t n n n n n n n
-command
+question
 1 9 9 4 年 中 秋 节 是 几 月 几 号
 t t t t t t t t v m m n n
-command
+question
 请 问 还 有 多 少 天 到 中 秋 节
 v v v v r r q v t t t
-command
+question
 2 0 1 2 年 几 号 情 人 节
 t t t t t m m n n n
-command
+question
 2 0 1 2 年 圣 诞 节 是 哪 天
 t t t t t t t t v r r
-command
+question
 清 明 节 是 哪 一 天
 t t t v r m q
-command
+question
 哪 日 是 情 人 节
 r q v n n n
-command
+question
 2 0 1 4 年 几 月 几 号 是 中 秋 节
 m m m m q m n m q v t t t
-command
+question
 2 0 1 1 年 情 人 节 是 几 月 几 号
 t t t t t n n n v m m n n
-command
+question
 今 年 的 情 人 节 是 几 月 几 日
 t t u n n n v m n m q
-command
+question
 2 0 1 3 年 的 情 人 节 是 几 月 几 日
 t t t t t u n n n v m n m q
-command
+question
 几 号 情 人 节 谢 啦
 n n n n n n r y
-command
+question
 什 么 时 候 中 秋 节
 r r n n t t t
-command
+question
 情 人 节 是 多 久 呀
 n n n v r r y
-command
+question
 请 问 今 年 情 人 节 是 2 月 几 日 吗
 v v t t n n n v t t m q y
-command
+question
 2 0 1 2 年 什 么 时 间 是 情 人 节
 t t t t t r r n n v n n n
-command
+question
 1 9 6 6 年 阴 历 三 月 二 十 三 的 阳 历 是 几 号
 t t t t t n n t t m m m u n n v n n
-command
+question
 这 个 月 哪 号 是 情 人 节
 r r n r q v n n n
-command
+question
 今 年 情 人 节 是 几 月 几 日 啊
 t t n n n v m n m q y
-command
+question
 母 亲 节 是 哪 一 天
 t t t v r m q
-command
+question
 情 人 节 是 几 号 二 月
 n n n v n n t t
-command
+question
 几 号 情 人 节
 m m n z n z n z
-command
+question
 今 年 的 情 人 节 是 啥 时 候
 t t u n n n v r n n
-command
+question
 1 9 9 6 农 历 1 2 月 1 2 日 是 阳 历 什 么 日 子
 m m m m n n t t t t t t v n n r r n n
-command
+question
 2 0 1 2 中 国 情 人 节 阳 历 几 号
 m m m m n s n s n n n n n n n
-command
+question
 黑 色 情 人 节 是 几 月
 n z n z n z n z n z v n n
-command
+question
 高 清 模 式
 n n n n
 command
@@ -11595,385 +11595,385 @@ r r n v r
 question
 除 夕 宜 什 么
 t t v g r r
-command
+question
 春 节 忌 什 么
 t t v r r
-command
+question
 6 1 8 宜 什 么
 n z n z n z v g r r
-command
+question
 雨 水 忌 什 么
 n n v r r
-command
+question
 芒 种 忌 什 么
 n n v r r
-command
+question
 女 生 节 忌 什 么
 n n n v r r
-command
+question
 小 寒 宜 什 么
 n n v g r r
-command
+question
 劳 动 节 宜 什 么
 t t t v g r r
-command
+question
 冬 至 宜 什 么
 n n v g r r
-command
+question
 大 寒 宜 内 容
 t t v g n n
-command
+question
 雨 水 忌 内 容
 n n v n n
-command
+question
 小 满 宜 内 容
 n r n r v g n n
-command
+question
 小 年 忌 内 容
 n n v n n
-command
+question
 双 十 二 忌 内 容
 n z n z n z v n n
-command
+question
 芒 种 忌 内 容
 n n v n n
-command
+question
 立 夏 宜 内 容
 v n n n n
-command
+question
 春 分 忌 内 容
 t t v n n
-command
+question
 青 年 节 忌 内 容
 t t t v n n
-command
+question
 大 雪 宜 穿 屏 扇 架 吗
 a n r n r v n g n g n g y
-command
+question
 小 雪 忌 破 屋 坏 垣 吗
 n n v a n a n g y
-command
+question
 女 神 节 忌 修 造 吗
 n n v g v v v y
-command
+question
 重 阳 节 忌 经 络 吗
 t t t v n n y
-command
+question
 立 夏 宜 造 庙 吗
 n r n r n r v n y
-command
+question
 教 师 节 宜 纳 财 吗
 t t t v g v n y
-command
+question
 青 年 节 宜 平 治 道 涂 吗
 t t t v g v v n v y
-command
+question
 女 生 节 忌 整 手 足 甲 吗
 n n n v m n n m g y
-command
+question
 小 暑 宜 求 嗣 吗
 n n v g v n g y
-command
+question
 七 夕 节 宜 安 床 吗
 t t t v g v v y
-command
+question
 农 历 2 月 2 1 日 忌 什 么
 n n t t t t t v r r
-command
+question
 阴 历 5 月 1 9 日 忌 什 么
 n n t t t t t v r r
-command
+question
 农 历 1 2 月 4 日 忌 什 么
 n n t t t t t v r r
-command
+question
 阴 历 7 月 6 日 忌 什 么
 n n t t t t v r r
-command
+question
 阴 历 7 月 1 8 日 忌 什 么
 n n t t t t t v r r
-command
+question
 阴 历 1 1 月 1 2 日 宜 什 么
 n n t t t t t t v g r r
-command
+question
 阴 历 正 月 初 七 忌 什 么
 n n t t t t v r r
-command
+question
 阴 历 2 月 1 8 日 忌 什 么
 n n t t t t t v r r
-command
+question
 阴 历 1 0 月 2 6 日 忌 什 么
 n n t t t t t t v r r
-command
+question
 阴 历 1 月 1 9 日 忌 内 容
 n n t t t t t v n n
-command
+question
 阴 历 1 月 1 1 日 忌 内 容
 n n t t t t t v n n
-command
+question
 阴 历 1 0 月 2 2 日 忌 内 容
 n n t t t t t t v n n
-command
+question
 农 历 八 月 廿 八 宜 内 容
 n n t t t m a g n n
-command
+question
 农 历 5 月 3 日 宜 内 容
 n n t t t t v g n n
-command
+question
 阴 历 1 1 月 1 3 日 宜 内 容
 n n t t t t t t v g n n
-command
+question
 农 历 2 月 1 9 日 忌 内 容
 n n t t t t t v n n
-command
+question
 农 历 八 月 廿 二 宜 内 容
 n n t t t m v g n n
-command
+question
 农 历 2 月 1 2 日 忌 内 容
 n n t t t t t v n n
-command
+question
 阴 历 1 2 月 2 2 日 忌 内 容
 n n t t t t t t v n n
-command
+question
 农 历 1 月 2 8 日 宜 会 友 吗
 n n t t t t t v g v v y
-command
+question
 阴 历 1 2 月 1 9 日 宜 求 医 疗 病 吗
 n n t t t t t t a g v v n v n n y
-command
+question
 阴 历 1 0 月 2 6 日 宜 整 手 足 甲 吗
 n n t t t t t t v g m n n m g y
-command
+question
 农 历 四 月 十 号 忌 冠 笄 吗
 n n t t m q v n g n g y
-command
+question
 阴 历 9 月 2 3 日 忌 造 车 器 吗
 n n t t t t t v n n n y
-command
+question
 农 历 3 月 2 2 日 宜 齐 醮 吗
 n n t t t t t v g n r n r y
-command
+question
 农 历 8 月 2 1 日 忌 立 券 交 易 吗
 n n t t t t t v v n g n n y
-command
+question
 阴 历 8 月 1 5 日 忌 求 医 疗 病 吗
 n n t t t t t v v v n v n n y
-command
+question
 农 历 2 月 3 日 忌 造 车 器 吗
 n n t t t t v n n n y
-command
+question
 阴 历 正 月 初 七 宜 启 攒 吗
 n n t t t t v g v v y
-command
+question
 9 月 1 0 日 忌 什 么
 t t t t t v r r
-command
+question
 1 1 月 2 6 日 宜 什 么
 t t t t t t v g r r
-command
+question
 5 月 1 4 日 宜 什 么
 t t t t t v g r r
-command
+question
 八 月 廿 六 宜 什 么
 t t m m v g r r
-command
+question
 3 月 2 2 日 宜 什 么
 t t t t t v g r r
-command
+question
 腊 月 卅 一 忌 什 么
 t t v m v r r
-command
+question
 5 月 1 8 日 忌 什 么
 t t t t t v r r
-command
+question
 1 0 月 2 1 日 宜 什 么
 t t t t t t v g r r
-command
+question
 八 月 廿 五 忌 什 么
 t t m m v r r
-command
+question
 九 月 二 十 三 号 宜 什 么
 t t m m m q v g r r
-command
+question
 7 月 1 日 宜 内 容
 t t t t v g n n
-command
+question
 1 2 月 3 日 忌 内 容
 t t t t t v n n
-command
+question
 正 月 廿 八 忌 内 容
 t t m m v n n
-command
+question
 这 个 月 1 0 日 宜 内 容
 r r n t t t v g n n
-command
+question
 7 月 1 3 日 忌 内 容
 t t t t t v n n
-command
+question
 十 一 月 三 十 号 忌 内 容
 t t t m m q v n n
-command
+question
 8 月 1 9 日 忌 内 容
 t t t t t v n n
-command
+question
 后 天 宜 内 容
 n n v g n n
-command
+question
 6 月 2 8 日 忌 内 容
 t t t t t v n n
-command
+question
 1 0 月 7 日 宜 内 容
 t t t t t v g n n
-command
+question
 这 个 月 2 1 日 宜 纳 采 吗
 r r n t t t a g v v y
-command
+question
 1 2 月 2 日 宜 整 手 足 甲 吗
 t t t t t v g m n n m g y
-command
+question
 1 2 月 1 5 日 忌 酝 酿 吗
 t t t t t t v v v y
-command
+question
 1 月 3 1 日 宜 出 火 吗
 t t t t t v g v n y
-command
+question
 腊 月 廿 一 宜 作 陂 放 水 吗
 t t t t a g v n g v v y
-command
+question
 1 1 月 1 8 日 忌 纳 财 吗
 t t t t t t v v n y
-command
+question
 1 月 2 9 日 宜 移 徙 吗
 t t t t t v g v v y
-command
+question
 正 月 廿 五 忌 合 帐 吗
 t t m m v n n y
-command
+question
 7 月 8 日 宜 立 碑 吗
 t t t t a g v n y
-command
+question
 1 2 月 2 5 日 宜 成 服 吗
 t t t t t t v g v v y
-command
+question
 2 0 年 哪 一 天 宜 求 嗣
 n z n z n z r m q a g v n g
-command
+question
 去 年 哪 一 天 忌 除 服
 t t r m q v v v
-command
+question
 2 0 1 6 年 哪 一 天 忌 出 行
 t t t t t r m q v v v
-command
+question
 2 0 1 9 年 哪 一 天 宜 安 床
 m m m m q r m q v g n r n r
-command
+question
 明 年 哪 一 天 宜 挂 匾
 t t r m q a g v n
-command
+question
 1 6 年 哪 一 天 宜 解 除
 m m q r m q v g v v
-command
+question
 2 0 1 8 年 哪 一 天 宜 酝 酿
 m m m m q r m q v g v v
-command
+question
 1 6 年 哪 一 天 宜 塑 绘
 m m q r m q v g v g v
-command
+question
 1 6 年 哪 一 天 忌 修 墓
 m m q r m q v v n
-command
+question
 1 6 年 哪 一 天 忌 解 除
 m m q r m q v v v
-command
+question
 1 9 年 哪 天 宜 除 服
 m m q r q v g v v
-command
+question
 2 0 1 6 年 哪 天 宜 齐 醮
 t t t t t r q v g n r n r
-command
+question
 2 0 2 0 年 哪 天 忌 造 车 器
 t t t t t r q v n n n
-command
+question
 1 8 年 哪 天 宜 开 厕
 m m q r q v g v n g
-command
+question
 1 8 年 哪 天 忌 挂 匾
 m m q r q v v n
-command
+question
 2 0 年 哪 天 忌 订 盟
 n z n z n z r q v n n
-command
+question
 去 年 哪 天 宜 开 仓
 t t r q v g v v
-command
+question
 1 6 年 哪 天 宜 栽 种
 m m q r q v g v v
-command
+question
 1 7 年 哪 天 宜 斋 醮
 m m q r q v g n n
-command
+question
 2 0 1 6 年 哪 天 忌 拆 卸
 t t t t t r q v v v
-command
+question
 今 年 啥 时 候 忌 纳 财
 t t r n n v v n
-command
+question
 2 1 年 啥 时 候 忌 立 碑
 m m q r n n v v n
-command
+question
 2 0 2 1 年 啥 时 候 忌 拆 卸
 t t t t t r n n v v v
-command
+question
 1 7 年 啥 时 候 宜 修 墓
 m m q r n n v g v n
-command
+question
 1 6 年 啥 时 候 宜 补 垣
 m m q r n n v g v n g
-command
+question
 今 年 啥 时 候 宜 开 市
 t t r n n v g v v
-command
+question
 1 9 年 啥 时 候 忌 移 徙
 m m q r n n v v v
-command
+question
 1 7 年 啥 时 候 忌 安 床
 m m q r n n v n r n r
-command
+question
 明 年 啥 时 候 宜 成 服
 t t r n n v g n n
-command
+question
 去 年 啥 时 候 忌 造 车 器
 t t r n n v n n n
-command
+question
 今 年 几 号 宜 开 仓
 t t m q v g v v
-command
+question
 2 0 2 1 年 几 号 忌 安 机
 t t t t t m q v a g n g
-command
+question
 2 0 2 1 年 几 号 忌 进 人 口
 t t t t t m q v v n n
-command
+question
 2 0 2 1 年 几 号 忌 安 葬
 t t t t t m q v v v
-command
+question
 今 年 几 号 忌 移 柩
 t t m q v v n r
-command
+question
 今 年 几 号 忌 开 仓
 t t m q v v v
-command
+question
 2 0 1 6 年 几 号 忌 祀 灶
 t t t t t m q v v n
-command
+question
 今 年 几 号 忌 穿 屏 扇 架
 t t m q v v n g n g n g
-command
+question
 2 1 年 几 号 宜 赴 任
 m m q m q v g v v
-command
+question
 1 8 年 几 号 忌 安 香
 m m q m q v n r n r
-command
+question
 旅 游 频 道 周 五 的 节 目
 v n v n n n t t u n n
 media
