@@ -1,0 +1,60 @@
+频 道 1 月 2 4 日 有 什 么 节 目
+n n t t t t t v r r n n
+TV TV TIME TIME TIME TIME TIME O O O O O PROGRAM_LIST
+泉 州 安 溪 县 有 直 接 到 会 展 中 心 的 车 吗
+ns ns ns ns ns v ad ad p j j n n u n y
+LOCATION LOCATION LOCATION LOCATION LOCATION O O O O O O O O O O O NORMAL
+第 二 十 一 个
+m m m m q
+NUM NUM NUM NUM O SET_INDEX
+e n g i e 周 六 股 票 价 格
+nx nx nx nx nx t t n n n n
+COMPANY COMPANY COMPANY COMPANY COMPANY TIME TIME O O O O Q_STOCK
+万 年 历 阴 历 1 9 8 3 年 1 0 月 1 1 日 是 阳 历 几 号
+n n n n n t t t t t t t t t t t v n n n n
+O O O LUANAR LUANAR TIME TIME TIME TIME TIME TIME TIME TIME TIME TIME TIME O O O O O CALENDAR
+9 减 六 十 可 以 得 到 什 么 值
+m v m m v v v v r r n
+O O O O O O O O O O O CALCULATION
+换 其 他 的
+v r r u
+O O O O NEXT_SEARCH
+五 百 二 十 八 焦 耳 等 于 多 少 百 万 立 方 英 尺
+m m m m m n n v v r r m m n n q q
+NUM NUM NUM NUM NUM UNIT UNIT O O O O UNIT UNIT UNIT UNIT UNIT UNIT CONVERSION
+举 意 如 旦 暮 前 一 句
+v ng v n n f m q
+PHRASE PHRASE PHRASE PHRASE PHRASE O O O POEM
+北 京 顺 义 限 不 限 行
+ns ns ns ns ng d v v
+LOCATION LOCATION LOCATION LOCATION O O O O Q_TRAFFIC
+适 合 三 到 四 岁 美 女 看 的 电 视 连 续 剧
+v v m p m q n n v u n n n n n
+O O AGE AGE AGE AGE GENDER GENDER O O CHANNEL CHANNEL CHANNEL CHANNEL CHANNEL MEDIA_SEARCH
+1 千 克 可 以 换 算 成 多 少 千 克 每 时
+m n n v v v v v r r q q r ng
+NUM UNIT UNIT O O O O O O O UNIT UNIT UNIT UNIT CONVERSION
+回 看 宁 夏 电 视 台
+v v ns ns n n n
+O O TV TV TV TV TV PROGRAM_LIST
+再 找 找
+d v v
+O O O NEXT_SEARCH
+帮 我 算 一 下 2 减 7 9 等 于 多 少
+v r v m m m v m m v v r r
+O O O O O O O O O O O O O CALCULATION
+一 立 方 英 尺 等 于 多 少 开 尔 文
+m q q q q v v r r n n n
+NUM UNIT UNIT UNIT UNIT O O O O UNIT UNIT UNIT CONVERSION
+算 下 1 0 加 7 0 的 值
+v f nr nr v m m u n
+O O O O O O O O O CALCULATION
+换 一 拨
+v m q
+O O O NEXT_SEARCH
+一 亿 立 方 英 尺 是 多 少 英 尺
+m m n n q q v r r q q
+NUM NUM UNIT UNIT UNIT UNIT O O O UNIT UNIT CONVERSION
+帮 我 计 算 一 下 9 加 8 9
+v r v v m m m v m m
+O O O O O O O O O O CALCULATION

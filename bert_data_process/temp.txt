@@ -1,0 +1,57 @@
+藏 第 十 三 画 是 什 么
+j m m m n v r r
+O O O O O O O O NORMAL
+下 星 期 五 在 历 史 上 发 生 了 什 么 重 要 事 件
+t t t t p n n f v v u r r a a n n
+TIME TIME TIME TIME O O O O O O O O O O O O O TIME_HISTORY
+动 画 片 儿
+n n n n
+TAG TAG CHANNEL CHANNEL MEDIA_SEARCH
+敲 竹 杠 含 义 是 什 么
+v v v n n v r r
+PHRASE PHRASE PHRASE O O O O O DICTIONARY
+三 百 七 十 五 厘 米 烛 光 是 多 少 百 分 度
+m m m m m q q n n v r r m n n
+NUM NUM NUM NUM NUM UNIT UNIT UNIT UNIT O O O UNIT UNIT UNIT CONVERSION
+昨 天 江 苏 台
+t t nz nz nz
+TIME TIME TV TV TV MEDIA_SEARCH
+再 念 一 首 张 先 写 的 的 词
+d v m q d d v u u n
+O O O O NAME NAME O O O O POEM
+国 庆 节 上 海 浦 东 限 行 的 尾 号 是 啥
+t t t ns ns ns ns v v u ng n v r
+FESTIVAL FESTIVAL FESTIVAL LOCATION LOCATION LOCATION LOCATION O O O O O O O Q_TRAFFIC
+排 除 谢 宁 的
+v v nr nr u
+O O NAME NAME O MEDIA_SEARCH
+外 孙 的 爷 爷 该 如 何 称 呼
+n n u n n v r r v v
+PER_RELA PER_RELA O PER_RELA PER_RELA O O O O O MEMBERSHIP
+两 个 猪 猪 侠 五 灵 卫
+m q nz nz nz nz ng ng
+O O TITLE TITLE TITLE TITLE TITLE TITLE MEDIA_SEARCH
+告 诉 我 丈 人 的 妻 子 的 称 呼
+v v r n n u n n u n n
+O O O PER_RELA PER_RELA O PER_RELA PER_RELA O O O MEMBERSHIP
+3 减 9 5 减 3 3 等 于 什 么
+m v m m v m m v v r r
+O O O O O O O O O O O CALCULATION
+史 蒂 夫 纳 什 为 什 么 不 参 加 梦 七
+nr nr nr nr nr r r r d v v n m
+NAME NAME NAME NAME O O O O O O O O O NORMAL
+金 鹰 宝 可 梦 第 二 季
+nr nr nz nz nz m m ng
+TITLE TITLE TITLE TITLE TITLE EPISODE EPISODE EPISODE MEDIA_SEARCH
+周 杰 伦 为 什 么 广 受 欢 迎
+nr nr nr r r r i i i i
+NAME NAME NAME O O O O O O O NORMAL
+刘 备 最 后 的 下 场 是 什 么
+nr nr f f u n n v r r
+NAME NAME O O O O O O O O NORMAL
+草 蛇 的 叫 声 是 怎 么 样 的
+n n u n n v r r r u
+CREATURE CREATURE O O O O O O O O SOUND
+2 0 1 4 q q 音 乐 年 度 盛 典 张 杰 表 演 什 么
+nx nx nx nx nx nx n n n n n n nr nr v v r r
+TIME TIME TIME TIME O O O O O O O O NAME NAME O O O O NORMAL
