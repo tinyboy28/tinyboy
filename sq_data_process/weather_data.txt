@@ -1,0 +1,255 @@
+天气 怎么样	n r	O O
+上海 一直 下雨	ns d v	LOCATION O O
+宝山 有 冰雹 天气	ns v n n	LOCATION O O O
+江苏 又 大暴雨	ns d n	LOCATION O O
+上海 今天 天气 怎样	ns t n r	LOCATION TIME O O
+北京 未来 一 周 都 有 雨 吗	ns t m q d v n y	LOCATION TIME TIME TIME O O O O
+上海 明天 高温	ns t n	LOCATION TIME O
+重庆 明天 阴天 吗	ns t n y	LOCATION TIME O O
+武汉 明天 有 雨 吗	ns t v n y	LOCATION TIME O O O
+明天 是 晴天 吗	t v n y	TIME O O O
+上海 今日 有 大风 吗	ns t v n y	LOCATION TIME O O O
+浙江 明天 会 有 大雾 吗	ns t v v n y	LOCATION TIME O O O O
+沈阳 最近 有 雨夹雪 吗	ns t v n y	LOCATION TIME O O O
+今天 空气 适合 跑步 吗	t n v v y	TIME O O O O
+适合 穿 短裤 吗	v v n y	O O O O
+今天 适合 穿 什么	t v v r	TIME O O O
+今天 能 洗 车 吗	t v v n y	TIME O O O O
+明天 天气 适合 外出 打球	t n v v v	TIME O O O O
+明天 天气 可以 去 故宫 旅游 吗	t n v v ns vn y	TIME O O O O O O
+最近 天气 容易 导致 感冒 吗	t n a v v y	TIME O O O O O
+天气 好 吗	n a y	O O O
+成都 下雨 吗	ns v y	LOCATION O O
+深圳 晴天	ns n	LOCATION O
+静安区 高温	ns n	LOCATION O
+河南 阴天	ns n	LOCATION O
+福建 昨天 下 了 一 天雨	ns t v u m nr	LOCATION TIME O O O O
+广州 这个 月 很 热	ns r n d k	LOCATION TIME TIME O O
+天津 这 一 周 高温 吗	ns r m q n y	LOCATION TIME TIME TIME O O
+香港 今天 阴天 吗	ns t n y	LOCATION TIME O O
+武汉 今天 晴天 吗	ns t n y	LOCATION TIME O O
+山东 今天 有 雨 吗	ns t v n y	LOCATION TIME O O O
+西安 下雪 了 吗	ns v y y	LOCATION O O O
+西城区 大雨 吗	ns n y	LOCATION O O
+湖北 下雪 吗	ns n y	LOCATION O O
+辽宁 这个 礼拜 冷 吗	ns r n a y	LOCATION TIME TIME O O
+佛山 一整天 都 是 阴天	ns t d v n	LOCATION TIME O O O
+墨尔本 今天 晴天 吗	nz t n y	LOCATION TIME O O
+河北 最近 有点 冷	ns t d a	LOCATION TIME O O
+珠海 昨天 是 阴天	ns t v n	LOCATION TIME O O
+纽约 一直 下雨 吧	ns d v y	LOCATION O O O
+伦敦 有 大雾 吗	ns v n y	LOCATION O O O
+后天 的 天气	n u n	TIME O O
+明天 天气	t n	TIME O
+明天 下雨 吗	t v y	TIME O O
+明天 下 不 下雨 啊	t f d v y	TIME O O O O
+上海 下周 天气	ns t n	LOCATION TIME O
+下雨 吗 明天	v y t	O O TIME
+明天 天气 怎么样	t n r	TIME O O
+明天 天气 还 好 吧	t n d a y	TIME O O O O
+后天 天气	n n	TIME O
+后天 下 不 下雨 呀	n f d v y	TIME O O O O
+今天 下午 下雨 吗	t t v y	TIME TIME O O
+明天 早上 下 不 下雨 啊	t t f d v y	TIME TIME O O O O
+上海 今天 晚上 下雨 吗	ns t t v y	LOCATION TIME TIME O O
+告诉 我 北京 下周 天气	v r ns t n	O O LOCATION TIME O
+横店 明天 天气	ns t n	LOCATION TIME O
+北京 天气预报	ns n	LOCATION O
+江城 下周 天气	ns t n	LOCATION TIME O
+济阳 五 天 天气预报	ns m q n	LOCATION TIME TIME O
+泸州 未来 七 天 天气	ns t m q n	LOCATION TIME TIME TIME O
+赤水 下 个 礼拜 的 天气 情况	ns f q n u n n	LOCATION TIME TIME TIME O O O
+禹城 三 天 天气预报	nr m q n	LOCATION TIME TIME O
+三天 天气预报	nz n	TIME O
+未来 五 天 天气 情况	t m q n n	TIME TIME TIME O O
+未来 七 天 天气预报	t m q n	TIME TIME TIME O
+下周 天气预报	t n	TIME O
+下 个 礼拜 的 天气预报	f q n u n	O O O O O
+昌邑 下周 天气	ns t n	O TIME O
+耿马 后面 3 天 天气	nr f m q n	LOCATION TIME TIME TIME O
+三亚 接 下来 几 天 天气预报	ns v v m q n	LOCATION TIME TIME TIME TIME O
+下周 珠海 天气	t ns n	TIME LOCATION O
+湛江 明天 天气 怎么样	ns t n r	LOCATION TIME O O
+吴川 未来 几 天 天气 情况	nr t m q n n	LOCATION TIME TIME TIME O O
+龙海 天气预报	nr n	LOCATION O
+周二 天气 怎么样	nr n r	TIME O O
+周末 三亚 天气 怎样	t ns n r	TIME LOCATION O O
+下周 三 厦门 天气 好 不 好	t m ns n a d a	TIME TIME LOCATION O O O O
+周五 长沙 天气 情况	t ns n n	TIME O O O
+告诉 我 北京 下周一 天气 情况	v r ns t n n	O O LOCATION TIME O O
+下周 天气 咋样	t n r	TIME O O
+周五 天气 好 吗	t n a y	TIME O O O
+上海 周日 的 天气	ns t u n	LOCATION TIME O O
+无锡 周五 天气 情况	ns t n n	LOCATION TIME O O
+重庆 下周 二 的 天气	ns t m u n	LOCATION TIME TIME O O
+9月10 号 天气预报	m q n	TIME TIME O
+11 号 的 天气 情况	m q u n n	TIME TIME O O O
+10月24日 上海 天气	t ns n	TIME LOCATION O
+11月20 号 北京 天气	m q ns n	TIME TIME LOCATION O
+告诉 我 1月2 号 无锡 的 天气	v r m q ns u n	O O TIME TIME LOCATION O O
+请问 2月10 号 左右 宁波 的 天气 情况	v m q m ns u n n	O TIME TIME TIME LOCATION O O O
+请问 十一 期间 大连 天气	v m f ns n	O TIME O LOCATION O
+五一 青岛 天气	m ns n	TIME LOCATION O
+清明 杭州 天气预报	t ns n	TIME LOCATION O
+4月10 号 附近 衡阳 的 天气	m q f ns u n	TIME TIME TIME LOCATION O O
+6月1日 重庆 天气	t ns n	TIME LOCATION O
+五一 重庆 天气	m ns n	TIME LOCATION O
+十一 期间 成都 天气	m f ns n	TIME O LOCATION O
+国庆 期间 杭州 天气	t f ns n	TIME O LOCATION O
+六月 二十 号 天气 情况	n m q n n	TIME TIME TIME O O
+四月 一 号 宁波 天气	t m q ns n	TIME TIME TIME LOCATION O
+十二月 三十 福州 天气 好 吗	t m ns n a y	TIME TIME LOCATION O O O
+八月 八号 那天 济南 天气 好 吗	t nz r ns n a y	TIME TIME O LOCATION O O O
+七月 十二大阪 天气	t i n	TIME LOCATION O
+下周 二 上海 天气 好 么	t m ns n a y	TIME TIME LOCATION O O O
+下周一 上海 天气	n ns n	TIME LOCATION O
+下周 二 天气	t m n	TIME TIME O
+下周 五 厦门 天气 好 么	t m ns n a y	TIME TIME LOCATION O O O
+下周 末 的 天气 情况	t f u n n	TIME TIME O O O
+下周 六 成都 天气	t m ns n	TIME TIME LOCATION O
+杭州 周末 天气	ns t n	LOCATION TIME O
+济南 这 周末 天气预报	ns r t n	LOCATION TIME TIME O
+成都 这 周五 天气 情况	ns r t n n	LOCATION TIME TIME O O
+合肥 周天 天气	ns nr n	LOCATION TIME O
+济阳 下周 四 天气	ns t m n	LOCATION TIME TIME O
+芜湖 下周 天气预报	ns t n	LOCATION TIME O
+阿坝州 天气	ns n	LOCATION O
+江安 天气	ns n	LOCATION O
+安县 天气	ns n	LOCATION O
+马尔康 天气	nr n	LOCATION O
+旺苍 天气	ns n	LOCATION O
+雅安 天气	ns n	LOCATION O
+南充 天气	ns n	LOCATION O
+汉源 天气	n n	LOCATION O
+双流 天气	n n	LOCATION O
+金口河 天气	ns n	LOCATION O
+彭山 天气	nr n	LOCATION O
+攀枝花 天气	ns n	LOCATION O
+盐亭 天气	n n	LOCATION O
+南江 天气	ns n	LOCATION O
+荣县 天气	ns n	LOCATION O
+纳溪 天气	nr n	LOCATION O
+绵竹 天气	n n	LOCATION O
+剑阁 天气	ns n	LOCATION O
+龙泉驿 天气	ns n	LOCATION O
+巴中 天气	ns n	LOCATION O
+渠县 天气 预报	ns n vn	LOCATION O O
+南江 天气 预报	ns n vn	LOCATION O O
+攀枝花 天气 预报	ns n vn	LOCATION O O
+松潘 天气 预报	nr n vn	LOCATION O O
+宣汉 天气 预报	n n vn	LOCATION O O
+盐亭 天气 预报	n n vn	LOCATION O O
+青川 天气 预报	ns n vn	LOCATION O O
+米易 天气 预报	ns n vn	LOCATION O O
+大邑 天气 预报	ns n vn	LOCATION O O
+纳溪 天气 预报	nr n vn	LOCATION O O
+蓬安 天气 预报	ns n vn	LOCATION O O
+岳池 天气 预报	n n vn	LOCATION O O
+筠连 天气 预报	n n vn	LOCATION O O
+名山 天气 预报	n n vn	LOCATION O O
+北川 天气 预报	ns n vn	LOCATION O O
+高县 天气 预报	ns n vn	LOCATION O O
+广汉 天气 预报	n n vn	LOCATION O O
+石棉 天气 预报	n n vn	LOCATION O O
+朝天 天气 预报	f n vn	LOCATION O O
+洪雅 天气 预报	nr n vn	LOCATION O O
+大竹 天气	ns n	LOCATION O
+理县 天气	ns n	LOCATION O
+大邑 天气	ns n	LOCATION O
+富顺 天气	nz n	LOCATION O
+达县 天气	ns n	LOCATION O
+旺苍 天气	ns n	LOCATION O
+眉山 天气	ns n	LOCATION O
+大竹 天气	ns n	LOCATION O
+天全 天气	n n	LOCATION O
+盐亭 天气	n n	LOCATION O
+江安 天气	ns n	LOCATION O
+金川 天气	ns n	LOCATION O
+马尔康 天气	nr n	LOCATION O
+南溪 天气	ns n	LOCATION O
+岳池 天气	n n	LOCATION O
+古蔺 天气	n n	LOCATION O
+沙湾 天气	ns n	LOCATION O
+温江 天气	nr n	LOCATION O
+涪城 天气	ns n	LOCATION O
+金牛 天气	n n	LOCATION O
+泸县 天气 预报	ns n vn	LOCATION O O
+泸县 天气 预报	ns n vn	LOCATION O O
+简阳 天气 预报	n n vn	LOCATION O O
+广汉 天气 预报	n n vn	LOCATION O O
+绵阳 天气 预报	ns n vn	LOCATION O O
+广元 天气 预报	ns n vn	LOCATION O O
+理县 天气 预报	ns n vn	LOCATION O O
+温江 天气 预报	nr n vn	LOCATION O O
+理县 天气 预报	ns n vn	LOCATION O O
+盐边 天气 预报	n n vn	LOCATION O O
+古蔺 天气 预报	n n vn	LOCATION O O
+荣县 天气 预报	ns n vn	LOCATION O O
+仪陇 天气 预报	n n vn	LOCATION O O
+南江 天气 预报	ns n vn	LOCATION O O
+邛崃 天气 预报	n n vn	LOCATION O O
+青神 天气 预报	n n vn	LOCATION O O
+盐边 天气 预报	n n vn	LOCATION O O
+甘孜 天气 预报	n n vn	LOCATION O O
+汶川 天气 预报	n n vn	LOCATION O O
+西充 天气 预报	ns n vn	LOCATION O O
+南通 上个月 10 号 天气	ns t nr q n	LOCATION TIME TIME TIME O
+长沙 这个 月 6 号 天气	ns r n m q n	LOCATION TIME TIME TIME TIME O
+临沂 上个月 6 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+遵义 上个月 2 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+邯郸 这个 月 10 号 天气	ns r n nr q n	LOCATION TIME TIME TIME TIME O
+杭州 下 个 月 10 号 天气	ns f q n nr q n	LOCATION TIME TIME TIME TIME TIME O
+金华 上个月 3 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+南阳 这个 月 6 号 天气	ns r n m q n	LOCATION TIME TIME TIME TIME O
+重庆 上个月 17 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+石家庄 上个月 3 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+沧州 下 个 月 21 号 天气	ns f q n m q n	LOCATION TIME TIME TIME TIME TIME O
+西安 下 个 月 10 号 天气	ns f q n nr q n	LOCATION TIME TIME TIME TIME TIME O
+珠海 这个 月 15 号 天气	ns r n m q n	LOCATION TIME TIME TIME TIME O
+遵义 上个月 3 号 天气	ns t m q n	LOCATION TIME TIME TIME O
+北京 下 个 月 5 号 天气	ns f q n m q n	LOCATION TIME TIME TIME TIME TIME O
+北京 丰台 天气	ns ns n	LOCATION LOCATION O
+北京怀柔区 天气	nz n	LOCATION O
+上海 长宁 天气	ns ns n	LOCATION LOCATION O
+上海 闵行 天气	ns v n	LOCATION LOCATION O
+北京 西城 9月10 号 天气	ns ns m q n	LOCATION LOCATION TIME TIME O
+北京 大兴 下 个 月 15 号 天气	ns ns f q n m q n	LOCATION LOCATION TIME TIME TIME TIME TIME O
+北京 海淀 今天 天气	ns ns t n	LOCATION LOCATION TIME O
+北京 海淀 后面 3 天 天气	ns ns f m q n	LOCATION LOCATION TIME TIME TIME O
+上海 杨浦区 明天 早上 有 雨 么	ns ns t t v n y	LOCATION LOCATION TIME TIME O O O
+北京 东城区 下周 二 有 雨 么	ns ns t m v n y	LOCATION LOCATION TIME TIME O O O
+上海 杨浦 这个 月 21 号 有 雨 么	ns ns r n m q v n y	LOCATION LOCATION TIME TIME TIME TIME O O O
+北京 延庆 区 后面 3 天 有 雨 么	ns ns n f m q v n y	LOCATION LOCATION LOCATION TIME TIME TIME O O O
+上海 普陀 下 个 月 17 号 有 雪 吗	ns nr f q n m q v n y	LOCATION LOCATION TIME TIME TIME TIME TIME O O O
+上海 松江 未来 五 天 有 雪 吗	ns ns t m q v n y	LOCATION LOCATION TIME TIME TIME O O O
+北京 朝阳 未来 3 天 有 雪 吗	ns n t m q v n y	LOCATION LOCATION TIME TIME TIME O O O
+北京 平谷区 中秋 有 雪 吗	ns ns t v n y	LOCATION LOCATION TIME O O O
+北京怀柔区 下周 二 天气 怎么样	nz t m n r	LOCATION TIME TIME O O
+上海 长宁 国庆节 天气 怎么样	ns ns t n r	LOCATION LOCATION TIME O O
+北京 朝阳区 周天 天气 怎么样	ns ns nr n r	LOCATION LOCATION TIME O O
+北京 丰台区 未来 七 天 天气 怎么样	ns ns t m q n r	LOCATION LOCATION TIME TIME TIME O O
+上海 闵行 四月 十 号 天气 好 吗	ns v t m q n a y	LOCATION LOCATION TIME TIME TIME O O O
+上海 徐汇 周日 天气 好 吗	ns nr t n a y	LOCATION LOCATION TIME O O O
+北京 门头沟区 下 个 月 21 号 天气 好 吗	ns ns f q n m q n a y	LOCATION LOCATION TIME TIME TIME TIME TIME O O O
+北京 房山区 今天 天气 好 吗	ns ns t n a y	LOCATION LOCATION TIME O O O
+上海 静安 周一 天气预报	ns ns nr n	LOCATION LOCATION TIME O
+北京 密云 区 周日 天气预报	ns ns n t n	LOCATION LOCATION LOCATION TIME O
+上海 黄埔区 十二月 二十 号 天气预报	ns ns t m q n	LOCATION LOCATION TIME TIME TIME O
+北京 延庆 前天 天气预报	ns ns t n	LOCATION LOCATION TIME O
+上海 浦东 明天 下雨 吗	ns ns t v y	LOCATION LOCATION TIME O O
+北京 海淀区 下 个 月 21 号 下雨 吗	ns ns f q n m q v y	LOCATION LOCATION TIME TIME TIME TIME TIME O O
+上海 静安区 明天 下雨 吗	ns ns t v y	LOCATION LOCATION TIME O O
+北京 延庆 区 未来 五 天 下雨 吗	ns ns n t m q v y	LOCATION LOCATION LOCATION TIME TIME TIME O O
+上海 虹口区 这 周末 的 天气	ns ns r t u n	LOCATION LOCATION TIME TIME O O
+北京 海淀 今天 的 天气	ns ns t u n	LOCATION LOCATION TIME O O
+上海 闵行 周二 的 天气	ns v nr u n	LOCATION LOCATION TIME O O
+北京 密云 区 周天 的 天气	ns ns n nr u n	LOCATION LOCATION LOCATION TIME O O
+上海 浦东 天气	ns ns n	LOCATION LOCATION O
+上海 浦东 后天 天气	ns ns nz n	LOCATION LOCATION TIME O
+上海 浦东 后天 有 雨 么	ns ns nz v n y	LOCATION LOCATION TIME O O O
+上海 浦东 今天 有 雪 吗	ns ns t v n y	LOCATION LOCATION TIME O O O
+上海 浦东 明天 天气 怎么样	ns ns t n r	LOCATION LOCATION TIME O O
+上海 浦东 后天 天气 好 吗	ns ns nz n a y	LOCATION LOCATION TIME O O O
+上海 浦东 今天 天气预报	ns ns t n	LOCATION LOCATION TIME O
+上海 浦东 明天 下雨 吗	ns ns t v y	LOCATION LOCATION TIME O O
+上海 浦东 今天 的 天气	ns ns t u n	LOCATION LOCATION TIME O O
