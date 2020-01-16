@@ -55,7 +55,7 @@ def get_mix_data():
     p = []
     t = []
 
-    if ind > 500:
+    if ind > 1000:
       break
     word = words[i].strip('\n').split(' ')
     pos = poss[i].strip('\n').split(' ')
@@ -99,4 +99,31 @@ def get_mix_data():
   with open('mix_data.txt', 'w+') as f:
     f.write('\n'.join(result))
 
+  words = result[::3]
+  poss = result[1::3]
+  tags = result[2::3]
+
+  index_list = []
+  for i in range(len(words)):
+    index_list.append(i)
+  # for i in range(500):
+  random.shuffle(index_list)
+  result_train = []
+  result_test = []
+  for ind, i in enumerate(index_list):
+    if ind < len(words) / 2:
+      result_train.append(words[i])
+      result_train.append(poss[i])
+      result_train.append(tags[i])
+    else:
+      result_test.append(words[i])
+      result_test.append(poss[i])
+      result_test.append(tags[i])
+
+  print(result_train)
+  print(result_test)
+  with open('train.in', 'w+') as f:
+    f.write('\n'.join(result_train))
+  with open('test.in', 'w+') as f:
+    f.write('\n'.join(result_test))
 get_mix_data()
