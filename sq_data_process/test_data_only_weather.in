@@ -1,0 +1,468 @@
+星 期 六 厦 门 有 没 有 雨
+t t t ns ns n n n n
+TIME TIME TIME LOCATION LOCATION O O O O Q_WEATHER
+十 一 月 十 一 日 北 京 大 兴 天 气
+t t t t t t ns ns d v n n
+TIME TIME TIME TIME TIME TIME LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+厦 门 十 月 天 气 如 何
+ns ns t t n n r r
+LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+今 天 厦 门 寒 冷 吗
+t t ns ns a a y
+TIME TIME LOCATION LOCATION O O O Q_WEATHER
+今 年 圣 诞 节 合 肥 会 下 雪 吗
+t t t t t ns ns v v v y
+TIME TIME FESTIVAL FESTIVAL FESTIVAL LOCATION LOCATION O O O O Q_WEATHER
+厦 门 五 一 天 气 怎 么 样 啊
+ns ns m m n n r r r y
+LOCATION LOCATION TIME TIME O O O O O O Q_WEATHER
+最 近 一 周 天 气 如 何
+t t m q n n r r
+TIME TIME TIME TIME O O O O Q_WEATHER
+9 月 1 5 日 华 山 天 气
+t t t t t n n n n
+TIME TIME TIME TIME TIME LOCATION LOCATION O O Q_WEATHER
+2 0 1 4 年 七 月 十 三 的 天 气 常 州
+t t t t t t t m m u n n ns ns
+TIME TIME TIME TIME TIME TIME TIME TIME TIME O O O LOCATION LOCATION Q_WEATHER
+伦 敦 五 月 天 气 怎 么 样
+ns ns t t n n r r r
+LOCATION LOCATION TIME TIME O O O O O Q_WEATHER
+九 月 十 三 号 的 天 气 如 何
+t t m m q u n n r r
+TIME TIME TIME TIME TIME O O O O O Q_WEATHER
+今 天 辽 宁 天 气 咋 样
+t t ns ns n n r r
+TIME TIME LOCATION LOCATION O O O O Q_WEATHER
+内 蒙 古 气 候 怎 么 样 冬 天 冷 吗
+ns ns ns n n r r r t t a y
+LOCATION LOCATION LOCATION O O O O O O O O O Q_WEATHER
+信 阳 这 会 在 下 雨 吗
+ns ns r n p v v y
+LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+重 庆 明 天 阴 天 吗
+ns ns t t n n y
+LOCATION LOCATION TIME TIME O O O Q_WEATHER
+武 汉 明 天 有 雨 吗
+ns ns t t v n y
+LOCATION LOCATION TIME TIME O O O Q_WEATHER
+明 天 是 晴 天 吗
+t t v n n y
+TIME TIME O O O O Q_WEATHER
+上 海 今 日 有 大 风 吗
+ns ns t t v n n y
+LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+成 都 下 雨 吗
+ns ns v v y
+LOCATION LOCATION O O O Q_WEATHER
+武 汉 今 天 晴 天 吗
+ns ns t t n n y
+LOCATION LOCATION TIME TIME O O O Q_WEATHER
+山 东 今 天 有 雨 吗
+ns ns t t v n y
+LOCATION LOCATION TIME TIME O O O Q_WEATHER
+伦 敦 有 大 雾 吗
+ns ns v n n y
+LOCATION LOCATION O O O O Q_WEATHER
+上 海 今 天 晚 上 下 雨 吗
+ns ns t t t t v v y
+LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+下 周 三 厦 门 天 气 好 不 好
+t t m ns ns n n a d a
+TIME TIME TIME LOCATION LOCATION O O O O O Q_WEATHER
+八 月 八 号 那 天 济 南 天 气 好 吗
+t t nz nz r r ns ns n n a y
+TIME TIME TIME TIME O O LOCATION LOCATION O O O O Q_WEATHER
+阿 坝 州 天 气
+ns ns ns n n
+LOCATION LOCATION LOCATION O O Q_WEATHER
+江 安 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+安 县 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+马 尔 康 天 气
+nr nr nr n n
+LOCATION LOCATION LOCATION O O Q_WEATHER
+旺 苍 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+雅 安 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+南 充 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+汉 源 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+双 流 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+金 口 河 天 气
+ns ns ns n n
+LOCATION LOCATION LOCATION O O Q_WEATHER
+彭 山 天 气
+nr nr n n
+LOCATION LOCATION O O Q_WEATHER
+攀 枝 花 天 气
+ns ns ns n n
+LOCATION LOCATION LOCATION O O Q_WEATHER
+盐 亭 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+南 江 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+荣 县 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+纳 溪 天 气
+nr nr n n
+LOCATION LOCATION O O Q_WEATHER
+宣 汉 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+盐 亭 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+青 川 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+米 易 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+大 邑 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+纳 溪 天 气 预 报
+nr nr n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+蓬 安 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+岳 池 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+筠 连 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+名 山 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+北 川 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+高 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+广 汉 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+石 棉 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+朝 天 天 气 预 报
+f f n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+洪 雅 天 气 预 报
+nr nr n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+大 竹 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+理 县 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+大 邑 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+富 顺 天 气
+nz nz n n
+LOCATION LOCATION O O Q_WEATHER
+达 县 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+旺 苍 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+眉 山 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+大 竹 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+天 全 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+盐 亭 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+江 安 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+金 川 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+马 尔 康 天 气
+nr nr nr n n
+LOCATION LOCATION LOCATION O O Q_WEATHER
+南 溪 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+岳 池 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+古 蔺 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+沙 湾 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+温 江 天 气
+nr nr n n
+LOCATION LOCATION O O Q_WEATHER
+涪 城 天 气
+ns ns n n
+LOCATION LOCATION O O Q_WEATHER
+金 牛 天 气
+n n n n
+LOCATION LOCATION O O Q_WEATHER
+泸 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+泸 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+简 阳 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+广 汉 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+绵 阳 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+广 元 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+理 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+温 江 天 气 预 报
+nr nr n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+理 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+盐 边 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+古 蔺 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+荣 县 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+仪 陇 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+邛 崃 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+青 神 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+盐 边 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+甘 孜 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+汶 川 天 气 预 报
+n n n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+西 充 天 气 预 报
+ns ns n n vn vn
+LOCATION LOCATION O O O O Q_WEATHER
+南 通 上 个 月 1 0 号 天 气
+ns ns t t t nr nr q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+长 沙 这 个 月 6 号 天 气
+ns ns r r n m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+临 沂 上 个 月 6 号 天 气
+ns ns t t t m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+遵 义 上 个 月 2 号 天 气
+ns ns t t t m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+邯 郸 这 个 月 1 0 号 天 气
+ns ns r r n nr nr q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+杭 州 下 个 月 1 0 号 天 气
+ns ns f q n nr nr q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+金 华 上 个 月 3 号 天 气
+ns ns t t t m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+南 阳 这 个 月 6 号 天 气
+ns ns r r n m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+重 庆 上 个 月 1 7 号 天 气
+ns ns t t t m m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+石 家 庄 上 个 月 3 号 天 气
+ns ns ns t t t m q n n
+LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+沧 州 下 个 月 2 1 号 天 气
+ns ns f q n m m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+西 安 下 个 月 1 0 号 天 气
+ns ns f q n nr nr q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+珠 海 这 个 月 1 5 号 天 气
+ns ns r r n m m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+遵 义 上 个 月 3 号 天 气
+ns ns t t t m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+北 京 下 个 月 5 号 天 气
+ns ns f q n m q n n
+LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+北 京 丰 台 天 气
+ns ns ns ns n n
+LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+北 京 怀 柔 区 天 气
+nz nz nz nz nz n n
+LOCATION LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+上 海 长 宁 天 气
+ns ns ns ns n n
+LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+上 海 闵 行 天 气
+ns ns v v n n
+LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+北 京 西 城 9 月 1 0 号 天 气
+ns ns ns ns m m m m q n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME O O Q_WEATHER
+北 京 大 兴 下 个 月 1 5 号 天 气
+ns ns ns ns f q n m m q n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O Q_WEATHER
+北 京 海 淀 今 天 天 气
+ns ns ns ns t t n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O Q_WEATHER
+北 京 海 淀 后 面 3 天 天 气
+ns ns ns ns f f m q n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O Q_WEATHER
+上 海 杨 浦 区 明 天 早 上 有 雨 么
+ns ns ns ns ns t t t t v n y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+北 京 东 城 区 下 周 二 有 雨 么
+ns ns ns ns ns t t m v n y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME O O O Q_WEATHER
+上 海 杨 浦 这 个 月 2 1 号 有 雨 么
+ns ns ns ns r r n m m q v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O O Q_WEATHER
+北 京 延 庆 区 后 面 3 天 有 雨 么
+ns ns ns ns n f f m q v n y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+上 海 普 陀 下 个 月 1 7 号 有 雪 吗
+ns ns nr nr f q n m m q v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O O Q_WEATHER
+上 海 松 江 未 来 五 天 有 雪 吗
+ns ns ns ns t t m q v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+北 京 朝 阳 未 来 3 天 有 雪 吗
+ns ns n n t t m q v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+北 京 平 谷 区 中 秋 有 雪 吗
+ns ns ns ns ns t t v n y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+北 京 怀 柔 区 下 周 二 天 气 怎 么 样
+nz nz nz nz nz t t m n n r r r
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME O O O O O Q_WEATHER
+上 海 长 宁 国 庆 节 天 气 怎 么 样
+ns ns ns ns t t t n n r r r
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME O O O O O Q_WEATHER
+北 京 朝 阳 区 周 天 天 气 怎 么 样
+ns ns ns ns ns nr nr n n r r r
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O O Q_WEATHER
+北 京 丰 台 区 未 来 七 天 天 气 怎 么 样
+ns ns ns ns ns t t m q n n r r r
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O O O Q_WEATHER
+上 海 闵 行 四 月 十 号 天 气 好 吗
+ns ns v v t t m q n n a y
+LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O O Q_WEATHER
+上 海 徐 汇 周 日 天 气 好 吗
+ns ns nr nr t t n n a y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+北 京 门 头 沟 区 下 个 月 2 1 号 天 气 好 吗
+ns ns ns ns ns ns f q n m m q n n a y
+LOCATION LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O O O Q_WEATHER
+北 京 房 山 区 今 天 天 气 好 吗
+ns ns ns ns ns t t n n a y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+上 海 静 安 周 一 天 气 预 报
+ns ns ns ns nr nr n n n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+北 京 密 云 区 周 日 天 气 预 报
+ns ns ns ns n t t n n n n
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+上 海 黄 埔 区 十 二 月 二 十 号 天 气 预 报
+ns ns ns ns ns t t t m m q n n n n
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O O O Q_WEATHER
+北 京 延 庆 前 天 天 气 预 报
+ns ns ns ns t t n n n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+上 海 浦 东 明 天 下 雨 吗
+ns ns ns ns t t v v y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+北 京 海 淀 区 下 个 月 2 1 号 下 雨 吗
+ns ns ns ns ns f q n m m q v v y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME TIME TIME O O O Q_WEATHER
+上 海 静 安 区 明 天 下 雨 吗
+ns ns ns ns ns t t v v y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+北 京 延 庆 区 未 来 五 天 下 雨 吗
+ns ns ns ns n t t m q v v y
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME TIME O O O Q_WEATHER
+上 海 虹 口 区 这 周 末 的 天 气
+ns ns ns ns ns r t t u n n
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME TIME O O O Q_WEATHER
+北 京 海 淀 今 天 的 天 气
+ns ns ns ns t t u n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+上 海 闵 行 周 二 的 天 气
+ns ns v v nr nr u n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+北 京 密 云 区 周 天 的 天 气
+ns ns ns ns n nr nr u n n
+LOCATION LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+上 海 浦 东 天 气
+ns ns ns ns n n
+LOCATION LOCATION LOCATION LOCATION O O Q_WEATHER
+上 海 浦 东 后 天 天 气
+ns ns ns ns nz nz n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O Q_WEATHER
+上 海 浦 东 后 天 有 雨 么
+ns ns ns ns nz nz v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+上 海 浦 东 今 天 有 雪 吗
+ns ns ns ns t t v n y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+上 海 浦 东 明 天 天 气 怎 么 样
+ns ns ns ns t t n n r r r
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O O Q_WEATHER
+上 海 浦 东 后 天 天 气 好 吗
+ns ns ns ns nz nz n n a y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+上 海 浦 东 今 天 天 气 预 报
+ns ns ns ns t t n n n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O O Q_WEATHER
+上 海 浦 东 明 天 下 雨 吗
+ns ns ns ns t t v v y
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
+上 海 浦 东 今 天 的 天 气
+ns ns ns ns t t u n n
+LOCATION LOCATION LOCATION LOCATION TIME TIME O O O Q_WEATHER
