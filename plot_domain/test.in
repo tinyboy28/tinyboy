@@ -1,0 +1,177 @@
+离 镜 与 司 音 为 何 决 裂
+nr nr p nr nr r r v v
+NAME NAME O NAME NAME O O VERB VERB Q_PLOT
+凤 九 为 什 么 断 尾
+nr nr r r r n n
+NAME NAME O O O VERB VERB Q_PLOT
+东 皇 钟 是 什 么
+nr nr nr v r r
+PROB PROB PROB O O O Q_PLOT
+东 皇 钟 是 干 什 么 的
+nr nr nr v v v v u
+PROB PROB PROB O O O O O Q_PLOT
+陈 萍 萍 是 谁
+nr nr nr v r
+NAME NAME NAME O O Q_PLOT
+庆 帝 的 真 实 身 份 是 什 么
+nr nr u a a n n v r r
+NAME NAME O O O O O O O O Q_PLOT
+海 棠 朵 朵 是 什 么 样 的 性 格
+nr nr nr nr v r r r u n n
+NAME NAME NAME NAME O O O O O O O Q_PLOT
+司 理 理 是 个 什 么 样 的 人
+nr nr nr v q r r r u n
+NAME NAME NAME O O O O O O O Q_PLOT
+叶 灵 儿 是 个 什 么 样 的 人
+nr nr nr v q r r r u n
+NAME NAME NAME O O O O O O O Q_PLOT
+燕 小 乙 喜 欢 的 人 是 谁
+nr nr nr v v u n v r
+NAME NAME NAME O O O O O O Q_PLOT
+范 闲 后 来 死 了 吗
+nr nr t t v y y
+NAME NAME O O EVENT_PER O O Q_PLOT
+范 闲 最 后 复 活 了 吗
+nr nr f f v v y y
+NAME NAME O O EVENT_PER EVENT_PER O O Q_PLOT
+范 闲 在 结 局 中 死 了 吗
+nr nr p n n f v y y
+NAME NAME O O O O EVENT_PER O O Q_PLOT
+范 闲 的 老 婆 是 林 婉 儿 吗
+nr nr u n n v nr nr nr y
+NAME NAME O PER_RELA PER_RELA O NAME NAME NAME O Q_PLOT
+范 闲 的 亲 生 父 亲 是 范 建 吗
+nr nr u b b n n v nr nr y
+NAME NAME O PER_RELA PER_RELA PER_RELA PER_RELA O NAME NAME O Q_PLOT
+言 若 海 是 言 冰 云 的 父 亲 吗
+nr nr nr v nr nr nr u n n y
+NAME NAME NAME O NAME NAME NAME O PER_RELA PER_RELA O Q_PLOT
+林 婉 儿 是 范 闲 的 妻 子 吗
+nr nr nr v nr nr u n n y
+NAME NAME NAME O NAME NAME O PER_RELA PER_RELA O Q_PLOT
+五 竹 叔 是 范 闲 的 师 傅 吗
+m ng n v nr nr u n n y
+NAME NAME NAME O NAME NAME O PER_RELA PER_RELA O Q_PLOT
+林 婉 儿 有 几 个 哥 哥
+nr nr nr v m q n n
+NAME NAME NAME O O O PER_RELA PER_RELA Q_PLOT
+范 闲 最 终 失 去 记 忆 了 吗
+nr nr d d v v n n y y
+NAME NAME O O EVENT_PER EVENT_PER EVENT_PER EVENT_PER O O Q_PLOT
+是 谁 杀 死 了 庆 帝
+v r v v u nr nr
+O O EVENT_PER EVENT_PER O NAME NAME Q_PLOT
+是 五 竹 叔 杀 死 的 庆 帝 吗
+v m ng n v v u nr nr y
+O NAME NAME NAME EVENT_PER EVENT_PER O NAME NAME O Q_PLOT
+范 闲 为 什 么 失 忆
+nr nr r r r v v
+NAME NAME O O O EVENT_PER EVENT_PER Q_PLOT
+范 闲 最 后 复 活 了 吗
+nr nr f f v v y y
+NAME NAME O O EVENT_PER EVENT_PER O O Q_PLOT
+沈 重 结 局 中 被 范 闲 杀 死 了 吗
+nr nr n n f p nr nr v v y y
+NAME NAME O O O O NAME NAME EVENT_PER EVENT_PER O O Q_PLOT
+五 竹 叔 眼 睛 为 什 么 瞎 了
+m ng n n n r r r v y
+NAME NAME NAME O O O O O O O Q_PLOT
+这 部 剧 大 结 局 是 什 么
+r q n n n n v r r
+O O O O O O O O O Q_PLOT
+告 诉 我 大 结 局
+v v r n n n
+O O O O O O Q_PLOT
+结 局 是 啥
+n n v r
+O O O O Q_PLOT
+上 杉 虎 和 沈 重 最 后 怎 么 了
+nr nr nr c nr nr f f r r y
+NAME NAME NAME O NAME NAME O O O O O Q_PLOT
+范 闲 喜 欢 谁
+nr nr v v r
+NAME NAME O O O Q_PLOT
+范 闲 喜 欢 林 婉 儿 还 是 司 理 理
+nr nr v v nr nr nr c c nr nr nr
+NAME NAME O O NAME NAME NAME O O NAME NAME NAME Q_PLOT
+范 闲 和 林 婉 儿 最 后 在 一 起 了 吗
+nr nr c nr nr nr f f nz nz nz y y
+NAME NAME O NAME NAME NAME O O O O O O O Q_PLOT
+司 理 理 喜 欢 的 是 范 闲 吗
+nr nr nr v v u v nr nr y
+NAME NAME NAME O O O O NAME NAME O Q_PLOT
+庙 堂 在 什 么 地 方
+n n p r r n n
+LOCATION LOCATION O O O O O Q_PLOT
+九 重 天 是 哪
+ns ns ns v r
+LOCATION LOCATION LOCATION O O Q_PLOT
+儋 州 在 哪 里
+ns ns p r r
+LOCATION LOCATION O O O Q_PLOT
+断 袖 是 什 么 意 思
+n n v r r n n
+NOUN NOUN O O O O O Q_PLOT
+灵 修 啥 意 思
+v v r n n
+NOUN NOUN O O O Q_PLOT
+双 修 的 意 思 是
+m v u n n v
+NOUN NOUN O O O O Q_PLOT
+沈 重 第 几 集 死 的
+nr nr m m vg v u
+NAME NAME O O O EVENT_PER O Q_PLOT
+范 闲 什 么 时 候 恢 复 记 忆
+nr nr r r n n v v n n
+NAME NAME O O O O EVENT_PER EVENT_PER EVENT_PER EVENT_PER Q_PLOT
+庆 帝 第 几 集 出 场
+nr nr m m vg v v
+NAME NAME O O O EVENT_PER EVENT_PER Q_PLOT
+言 冰 云 黑 化 是 在 第 几 集
+nr nr nr v v v p m m vg
+NAME NAME NAME EVENT_PER EVENT_PER O O O O O Q_PLOT
+燕 小 乙 第 几 集 出 场
+nr nr nr m m vg v v
+NAME NAME NAME O O O EVENT_PER EVENT_PER Q_PLOT
+哪 一 集 人 魔 大 战
+r m q n n n n
+O O O EVENT EVENT EVENT EVENT Q_PLOT
+仙 界 对 战 是 在 第 几 集
+n n v v v p m m vg
+EVENT EVENT EVENT EVENT O O O O O Q_PLOT
+第 几 集 范 闲 和 庆 帝 相 认
+m m vg nr nr c nr nr v v
+O O O NAME NAME O NAME NAME EVENT_PER EVENT_PER Q_PLOT
+范 闲 什 么 时 候 知 道 鸡 腿 姑 娘 就 是 林 婉 儿
+nr nr r r n n v v n n n n d v nr nr nr
+NAME NAME O O O O O O NAME NAME NAME NAME O O NAME NAME NAME Q_PLOT
+范 闲 在 第 几 集 知 道 林 婉 儿 就 是 鸡 腿 姑 娘
+nr nr p m m vg v v nr nr nr d v n n n n
+NAME NAME O O O O O O NAME NAME NAME O O NAME NAME NAME NAME Q_PLOT
+范 闲 和 鸡 腿 姑 娘 初 次 见 面 是 在 第 几 集
+nr nr c n n n n d d v v v p m m vg
+NAME NAME O NAME NAME NAME NAME EVENT_PER EVENT_PER EVENT_PER EVENT_PER O O O O O Q_PLOT
+范 闲 和 林 婉 儿 什 么 时 候 发 糖
+nr nr c nr nr nr r r n n v n
+NAME NAME O NAME NAME NAME O O O O EVENT_PER EVENT_PER Q_PLOT
+肖 恩 第 几 集 醒 来
+nr nr m m vg v v
+NAME NAME O O O EVENT_PER EVENT_PER Q_PLOT
+滕 梓 荆 在 第 几 集 被 杀
+nr nr nr p m m vg p v
+NAME NAME NAME O O O O EVENT_PER EVENT_PER Q_PLOT
+范 思 哲 和 范 闲 是 在 哪 一 集 相 认 的
+nr nr nr c nr nr v p r m q v v u
+NAME NAME NAME O NAME NAME O O O O O EVENT_PER EVENT_PER O Q_PLOT
+陈 萍 萍 第 几 集 出 场
+nr nr nr m m vg v v
+NAME NAME NAME O O O EVENT_PER EVENT_PER Q_PLOT
+范 若 若 是 范 思 哲 的 姐 姐 吗
+nr nr nr v nr nr nr u n n y
+NAME NAME NAME O NAME NAME NAME O PER_RELA PER_RELA O Q_PLOT
+范 思 哲 的 姐 姐 是 谁
+nr nr nr u n n v r
+NAME NAME NAME O PER_RELA PER_RELA O O Q_PLOT
+范 闲 的 父 亲 是 谁
+nr nr u n n v r
+NAME NAME O PER_RELA PER_RELA O O Q_PLOT
